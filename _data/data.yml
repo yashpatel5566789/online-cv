@@ -14,12 +14,12 @@ sidebar:
     # Sidebar links
     email: Yashpatel5566789@gmail.com
     phone: +91 8097281662
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    website:  #do not add http://
+    linkedin: yashpatel5566789
+    github: yashpatel5566789
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@yashpat00149968'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
@@ -28,20 +28,20 @@ sidebar:
       - idiom: English
         level: Native
 
-      - idiom: French
+      - idiom: Gujarati
         level: Professional
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Listing Podcast
         link:
 
-      - item: Snowboarding
+      - item: playing Table Tennis
         link:
 
-      - item: Cooking
+      - item: Reading Book
         link:
 
 career-profile:
