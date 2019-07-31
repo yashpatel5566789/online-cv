@@ -144,20 +144,20 @@ skills:
       - name: Python & Django
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
+      - name: Javascript & Json
         level: 98%
 
       - name: HTML5 & CSS
+        level: 98%
+
+      - name: Windows & Linux
         level: 95%
 
-      - name: Ruby on Rails
+      - name: Google Colab & Jupyter NoteBook
         level: 85%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: PyCharm & Intellij
+        level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
