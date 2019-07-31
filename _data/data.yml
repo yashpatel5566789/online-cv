@@ -50,10 +50,9 @@ career-profile:
       Looking for a challenging and innovative career in the IT field, which will enable me to utilize and
       enhance my skills in software development
 
-
 education:
-    - degree: Bachelor of Engineering,
-      Computer Engineering: Padmabhushan Vasantdada Patil Pratishthan's College of Engineering
+    - degree: Computer Engineering,
+      : Mumbai University
       time: 2017 - 2020
 
     - degree: BSc in Applied Mathematics
